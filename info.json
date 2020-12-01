@@ -2,10 +2,10 @@
     "name": "short_reach",
     "version": "0.0.1",
     "title": "Short Reach",
-    "description": "Shorten your reach. Can be used in conjuction with Far Reach!",
+    "description": "Make Factorio much harder by shortening the distance at which you can build, mine, and pickup items.",
     "factorio_version": "1.0",
     "dependencies": ["base >= 0.15.0"],
     "author": "adamwong246",
     "contact": "",
-    "homepage": ""
+    "homepage": "https://github.com/adamwong246/ShortReach"
 }

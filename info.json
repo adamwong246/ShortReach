@@ -1,0 +1,11 @@
+{
+    "name": "short_reach",
+    "version": "0.0.1",
+    "title": "Short Reach",
+    "description": "Shorten your reach. Can be used in conjuction with Far Reach!",
+    "factorio_version": "1.0",
+    "dependencies": ["base >= 0.15.0"],
+    "author": "adamwong246",
+    "contact": "",
+    "homepage": ""
+}

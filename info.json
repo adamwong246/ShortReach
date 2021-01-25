@@ -1,6 +1,6 @@
 {
     "name": "short_reach",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "title": "Short Reach",
     "description": "Make Factorio much harder by shortening the distance at which you can build, mine, and pickup items.",
     "factorio_version": "1.0",

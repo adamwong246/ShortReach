@@ -1,11 +1,11 @@
 {
   "name": "short_reach",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "title": "Short Reach",
   "description": "Shorten the distance at which you can build, mine, and pickup items.",
   "factorio_version": "1.1",
   "dependencies": [
-    "base >= 0.15.0"
+    "base >= 1.1.21"
   ],
   "author": "adamwong246",
   "contact": "adamwong246@gmail.com",
